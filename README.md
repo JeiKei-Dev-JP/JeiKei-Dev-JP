@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to JeiKei's Dev Space 🇰🇷🇯🇵
 
-<!--
-**JeiKei-Dev-JP/JeiKei-Dev-JP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 일본어 학습 보조 도구 **YomiLens(요미렌즈)** 개발자 JeiKei입니다.
+현재 일본어를 공부하며, 학습 효율을 높이기 위한 앱을 개발하고 있습니다.
 
-Here are some ideas to get you started:
+## 📱 YomiLens (요미렌즈)
+가로쓰기 일본어 한자의 후리가나(읽는 법)를 실시간으로 확인하여, 한자 부수를 그리지 않고도 빠르게 단어를 검색할 수 있도록 돕는 앱입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Support & Contact (고객 지원)
+앱 사용 중 궁금한 점이나 피드백이 있으시면 아래 채널로 연락 부탁드립니다.
+* **Email:** jeikei.dev.jp@gmail.com
+
+---
+*Note: 앱의 소스 코드는 유료 서비스 보안을 위해 비공개(Private)로 관리되고 있습니다.*
