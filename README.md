@@ -8,9 +8,13 @@
 ## TapTap Golf (탭탭골프) : 애플워치용 골프스코어 관리 앱 **TapTap Golf(탭탭골프)**
 골프 라운딩 중 스코어를 기록하는 앱으로, 애플워치의 간단한 조작으로 기록을 남길 수 있는 것이 핵심 기능입니다.
 
+
+
+
 ### Support & Contact (고객 지원)
 앱 사용 중 궁금한 점이나 피드백이 있으시면 아래 채널로 연락 부탁드립니다.
-* **Email:** jeikei.dev.jp@gmail.com
+
+**Email:** jeikei.dev.jp@gmail.com
 
 ---
 *Note: 앱의 소스 코드는 유료 서비스 보안을 위해 비공개(Private)로 관리되고 있습니다.*
